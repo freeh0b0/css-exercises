@@ -1,0 +1,19 @@
+.classy {
+  background-color: lightpink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#popo {
+  color: blue;
+  font-size: 36px;
+}
+
+.cool.classy {
+  font-size: 24px;
+}
+
+#matrix {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
